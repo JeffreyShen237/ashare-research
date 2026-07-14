@@ -1,0 +1,17 @@
+akshare
+pandas
+numpy
+scipy
+akshare
+alphalens-reloaded
+vectorbt
+backtrader
+matplotlib
+seaborn
+plotly
+streamlit
+scikit-learn
+statsmodels
+pyarrow
+pyyaml
+ruff

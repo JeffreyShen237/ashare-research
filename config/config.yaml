@@ -1,0 +1,13 @@
+universe:
+  index_code: "000906"
+
+time:
+  start_date: "2018-01-01"
+  end_date: "2024-12-31"
+
+data:
+  price_dir: "data/raw/prices"
+
+fetch:
+  sleep_interval: 0.35
+  max_retries: 3
